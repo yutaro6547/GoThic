@@ -4,8 +4,8 @@ import dagger.Component
 import zukkey.gothic.GoThicApplication
 import zukkey.gothic.injection.module.AppModule
 import zukkey.gothic.ui.activity.BaseActivity
-import zukkey.gothic.ui.activity.fragment.BaseFragment
-import zukkey.gothic.ui.activity.viewholder.BaseViewHolder
+import zukkey.gothic.ui.fragment.BaseFragment
+import zukkey.gothic.ui.viewholder.BaseViewHolder
 import javax.inject.Singleton
 
 /**

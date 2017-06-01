@@ -1,4 +1,4 @@
-package zukkey.gothic.ui.activity.fragment
+package zukkey.gothic.ui.fragment
 
 import android.os.Bundle
 

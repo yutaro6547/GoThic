@@ -1,4 +1,4 @@
-package zukkey.gothic.ui.activity.viewholder
+package zukkey.gothic.ui.viewholder
 
 import android.support.v7.widget.RecyclerView
 import android.view.View
