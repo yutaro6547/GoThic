@@ -5,6 +5,7 @@ import zukkey.gothic.ui.activity.BaseActivity
 
 /**
  * Created by YUTARO SUZUKI on 2017/05/27.
+ * All Fragment base class
  */
 
 abstract class BaseFragment: Fragment() {
