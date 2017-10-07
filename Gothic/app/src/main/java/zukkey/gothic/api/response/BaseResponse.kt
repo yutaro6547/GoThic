@@ -1,7 +1,6 @@
 package zukkey.gothic.api.response
 
 /**
- * Created by YUTARO SUZUKI on 2017/07/07.
  * Base response from api
  */
 

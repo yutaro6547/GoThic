@@ -9,7 +9,6 @@ import zukkey.gothic.ui.viewholder.BaseViewHolder
 import javax.inject.Singleton
 
 /**
- * Created by zukkey on 2017/06/01.
  * Network component to define inject
  */
 @Singleton

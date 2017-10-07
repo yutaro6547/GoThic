@@ -5,7 +5,6 @@ import dagger.Module
 import dagger.Provides
 
 /**
- * Created by zukkey on 2017/06/01.
  * App module provide application object
  */
 @Module

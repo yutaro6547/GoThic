@@ -4,7 +4,6 @@ import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 
 /**
- * Created by YUTARO SUZUKI on 2017/07/07.
  * Scroll End listener use for load next
  */
 

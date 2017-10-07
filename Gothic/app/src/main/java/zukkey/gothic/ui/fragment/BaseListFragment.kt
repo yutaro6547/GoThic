@@ -11,7 +11,6 @@ import zukkey.gothic.R
 import zukkey.gothic.ui.custom.RecyclerViewScrollEndListener
 
 /**
- * Created by YUTARO SUZUKI on 2017/07/07.
  * Base class for all list fragment
  */
 

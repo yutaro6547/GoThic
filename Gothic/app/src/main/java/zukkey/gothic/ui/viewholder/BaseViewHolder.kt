@@ -5,7 +5,6 @@ import android.view.View
 import zukkey.gothic.GoThicApplication
 
 /**
- * Created by zukkey on 2017/06/01.
  * base viewholder for injection
  */
 abstract class BaseViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {

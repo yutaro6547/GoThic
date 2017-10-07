@@ -3,7 +3,6 @@ package zukkey.gothic.ui.fragment
 import android.os.Bundle
 
 /**
- * Created by YUTARO SUZUKI on 2017/05/27.
  * Home Fragment in Main Activity
  */
 
