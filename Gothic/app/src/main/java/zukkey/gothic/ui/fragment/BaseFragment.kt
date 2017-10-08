@@ -1,7 +1,7 @@
 package zukkey.gothic.ui.fragment
 
-import android.app.Fragment
 import android.os.Bundle
+import android.support.v4.app.Fragment
 import zukkey.gothic.GoThicApplication
 import zukkey.gothic.ui.activity.BaseActivity
 
@@ -15,6 +15,7 @@ abstract class BaseFragment: Fragment() {
    * get current Activity
    */
   val baseActivity: BaseActivity get() { return activity as BaseActivity }
+
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     GoThicApplication.mainComponent.inject(this)
