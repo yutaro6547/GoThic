@@ -19,4 +19,8 @@ abstract class BaseActivity: AppCompatActivity() {
   override fun finish() {
     super.finish()
   }
+
+  override fun onSaveInstanceState(outState: Bundle?) {
+    super.onSaveInstanceState(outState)
+  }
 }
